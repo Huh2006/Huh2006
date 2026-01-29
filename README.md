@@ -18,44 +18,38 @@
 ---
 
 ### 🛠 Languages & Tools
-<p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="45" height="45" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="45" height="45" />
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="45" height="45" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="45" height="45" />
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="45" height="45" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="45" height="45" />
   &nbsp;
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="45" height="45" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="45" height="45" />
   &nbsp;
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" width="45" height="45" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" width="45" height="45" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<div align="left">
-  <a href="https://github.com/Huh2006">
-    <img src="https://github-readme-stats.vercel.app/api?username=Huh2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Adrian's GitHub stats" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Huh2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Adrian's Stats" />
   <br/>
-  <a href="https://github.com/Huh2006">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huh2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huh2006&theme=tokyonight&hide_border=true" alt="Adrian's Streak" />
   <br/>
-  <a href="https://github.com/Huh2006">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huh2006&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huh2006&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📱 Connect with me
-<p align="left">
-  <a href="https://www.github.com/Huh2006" target="_blank" rel="noreferrer">
+<p align="center">
+  <a href="https://www.github.com/Huh2006" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/Adrian-tan12" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/Adrian-tan12" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
 </p>
