@@ -1,24 +1,26 @@
-<div align="left">
+<div align="center">
 
 <img src="https://github.com/user-attachments/assets/e6b3e2dd-9976-4eb9-861c-df6ccc140f57" width="100%" style="border-radius: 10px;">
 
-<table>
-  <tr>
-    <td align="left" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/b2835d0b-3cda-4b49-8055-4d510de7d8cd" width="130" height="130" style="border-radius: 50%; border: 4px solid #1a1b26; margin-top: -60px; margin-left: 20px;">
-    </td>
-    <td align="left" style="vertical-align: bottom; border: none; padding-bottom: 10px;">
-       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&width=400&lines=Hi+there%2C+I'm+Adrian!+👋;Java+Developer;Creative+Coder;3D+Enthusiast" alt="Typing Effect" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <table>
+    <tr>
+      <td align="left" style="border: none;">
+        <img src="https://github.com/user-attachments/assets/b2835d0b-3cda-4b49-8055-4d510de7d8cd" width="130" height="130" style="border-radius: 50%; border: 4px solid #1a1b26; margin-top: -60px; margin-left: 20px;">
+      </td>
+      <td align="left" style="vertical-align: bottom; border: none; padding-bottom: 10px;">
+         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&width=400&lines=Hi+there%2C+I'm+Adrian!+👋;Java+Developer;Creative+Coder;3D+Enthusiast" alt="Typing Effect" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
 ---
 
 ### 🛠 Languages & Tools
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="45" height="45" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="45" height="45" />
@@ -33,18 +35,18 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huh2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adrian's Stats" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Huh2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Adrian's Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huh2006&theme=tokyonight&hide_border=true" alt="Adrian's Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huh2006&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Huh2006&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📱 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://www.github.com/Huh2006" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
