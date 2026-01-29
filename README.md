@@ -1,9 +1,13 @@
-<div align="center">
 
+![catPFP](https://github.com/user-attachments/assets/b2835d0b-3cda-4b49-8055-4d510de7d8cd)
+
+<div align="center">
+<img align="left" src="catPFP.gif" width="150" height="150" style="margin-right: 20px; border-radius: 50%;">
 # Hi there, I'm Adrian! 👋
 *Java Developer | Creative Coder | 3D Enthusiast*
 
----
+
+
 
 ### 🛠 Languages & Tools
 <p align="center">
