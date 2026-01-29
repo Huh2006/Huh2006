@@ -18,7 +18,7 @@
 ---
 
 ### 🛠 Languages & Tools
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="45" height="45" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="45" height="45" />
@@ -33,18 +33,18 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huh2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Adrian's Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Huh2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adrian's Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huh2006&theme=tokyonight&hide_border=true" alt="Adrian's Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huh2006&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huh2006&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📱 Connect with me
-<p align="center">
+<p align="left">
   <a href="https://www.github.com/Huh2006" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
